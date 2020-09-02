@@ -1,0 +1,74 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Zhen Yang-[http://trec.nist.gov TREC Activities]
+
+=== What's TREC?
+~~~
+The Text REtrieval Conference (TREC), co-sponsored by the National Institute of Standards and Technology (NIST) and U.S. Department of Defense, was started in 1992 as part of the TIPSTER Text program. Its purpose was to support research within the information retrieval community by providing the infrastructure necessary for large-scale evaluation of text retrieval methodologies. Form 2004, we took part in TREC competitions and want to get ready well for performing better.
+~~~
+
+=== [https://trec.nist.gov/pubs/trec26/trec2018.html TREC 2018]
+- *Incident Streams Track*
+. Project Members: Ning Lu, Zhen Yang
+. Paper: 
+
+- *Real-Time Summarization*
+. Project Members: Qingwei Meng, Zhen Yang
+. Paper: 
+
+=== [https://trec.nist.gov/pubs/trec26/trec2017.html TREC 2017]
+- *Real-Time Summarization*
+. Project Members: Qingwei Meng, Kai Wang, Zhen Yang
+. Paper: [https://trec.nist.gov/pubs/trec26/papers/BJUT-RT.pdf BJUT at TREC 2017: Real-Time Summarization Track]
+- *Tasks*
+. Project Members: Lupu Li, Guangyuan Zhang, Zhen Yang
+. Paper: [https://trec.nist.gov/pubs/trec26/papers/BJUT-T.pdf BJUT at TREC 2017: Tasks Track]
+
+=== [http://trec.nist.gov/pubs/trec25/trec2016.html TREC 2016]
+- *Live QA*
+. Project Members: Youjun E, Weitong Chen, Zhen Yang
+. Paper: [http://trec.nist.gov/pubs/trec25/papers/BJUT-QA.pdf BJUT at TREC 2016: LiveQA Track]
+- *Real Time*
+. Project Members: Kai Wang, Zhen Yang
+. Paper: [http://trec.nist.gov/pubs/trec25/papers/BJUT-RT.pdf BJUT at TREC 2016: Real-Time Summarization Track]
+- *Open Search Track*
+. Project Members: Li Chen, Zhen Yang
+. Paper: [http://trec.nist.gov/pubs/trec25/papers/BJUT-O.pdff BJUT at TREC 2016: Open Search Track]
+
+=== [http://trec.nist.gov/pubs/trec24/trec2015.html TREC 2015]
+- *Temporal Summarization* 
+. Project Members: Yingzhe Yao, Kefeng Fan, Zhen Yang
+. Paper: [http://trec.nist.gov/pubs/trec25/papers/BJUT-QA.pdf BJUT at TREC 2015 Temporal Summarization Track]
+. Highlight: *Invited talk of TREC 2015*
+- *Contextual Suggestion*
+. Project Members: Weitong Chen, Hanchen Li, Zhen Yang
+. Paper: [http://trec.nist.gov/pubs/trec24/papers/BJUT-CX.pdf BJUT at TREC 2015 Contextual Suggestion Track]
+- *Microblog*
+. Project Members of Group I: Chaoyang Li, Kefeng Fan, Zhen Yang
+. Paper: [http://trec.nist.gov/pubs/trec24/papers/BJUT-MB2.pdf BJUT at TREC 2015 Microblog Track:Real-Time Filtering Using Non-negative Matrix Factorizationk]
+. Project Members of Group II: Luyang Liu, Zhen Yang
+. Paper: [(http://trec.nist.gov/pubs/trec24/papers/BJUT-MB.pdf BJUT at TREC 2015 Microblog Track: Real-Time Filtering Using Knowledge Base]
+
+=== [http://trec.nist.gov/pubs/trec23/trec2014.html TREC 2014]
+- *Temporal Summarization*
+. Project Members: Yun Zhao, Fei Yao, Huayang Sun, Zhen Yang
+. Paper: [http://trec.nist.gov/pubs/trec23/papers/pro-BJUT_ts.pdf BJUT at TREC 2014 Temporal Summarization Track]
+- *Contextual Suggestion*
+. Project Members: Hanchen Li, Yingxu Lai, Lijuan Duan, Kefeng Fan, Zhen Yang
+. Paper: [http://trec.nist.gov/pubs/trec23/papers/pro-BJUT_cs.pdf BJUT at TREC 2014 Contextual Suggestion Track: Hybrid Recommendation Based on Open-web Information]
+. Highlight: *Invited talk of TREC 2014*
+
+
+=== [http://trec.nist.gov/pubs/trec22/trec2013.html TREC 2013]
+- *Temporal Summarization*
+. Project Members: Fei YAO, Huayang SUN, Yun ZHAO, Yingxu LAI, Kefeng FAN, Zhen YANG
+. Paper: [http://trec.nist.gov/pubs/trec22/papers/BJUT-ts.pdf BJUT at TREC 2013 Temporal Summarization Track]
+. Highlight: *Invited talk of TREC 2014*
+- *Microblog*
+. Project Members: Guangyuan ZHANG, Shuyong SI, Yingxu LAI, Kefeng FAN, Zhen YANG
+. Paper: [http://trec.nist.gov/pubs/trec22/papers/BJUT-microblog.pdf BJUT at TREC 2013 Microblog Track]
+
+
+=== [http://trec.nist.gov/ TREC 2004，2005，2006，2007]
+- *Spam Track*, *Enterprise Track*
+
+

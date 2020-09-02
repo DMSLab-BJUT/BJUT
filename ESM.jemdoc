@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Zhen Yang-Extremely Sparse Matrix
+
+=== Extremely Sparse Data with Blocks-Coupled Non-negative Matrix Factorization
+~~~
+Recommender systems have been comprehensively analyzed in the past decade and made great achievement in various fields. Generally speaking, the recommendation of information of interests is based on the potential connections among users and items implied in 'User-Item Matrix'. However, the exiting algorithm for recommendation will be degraded and ever fail in the case of sparseness of matrix. To resolve this problem, a new algorithm called B-NMF (Blocks-Coupled Non-negative Matrix Factorization) is proposed in this paper. With this algorithm: (1) the reconstruction performance of matrix of extreme sparseness is improved as a result of blocking the matrix and modeling based on full use of the coupling between blocks; (2) the coupling between different blocks is ensured via a coupling mechanism that imposes constraints on consistency as the matrix is decomposed. In addition, we provide an approach to exploiting homophily effect in prediction via homophily regularization and thus, the coupling between blocks is improved via extra homophily regularization constraints.
+~~~
+
+=== Project Members
+- Zhen Yang
+- Weitong Chen
+
+=== Publication
+- Yang Z, Chen W, Huang J. “Enhancing Recommendation on Extremely Sparse Data with Blocks-Coupled Non-negative Matrix Factorization.” Accepted by Neurocomputing.
+- 陈伟桐. 面向超稀疏数据的矩阵分块耦合因子化方法研究与应用, 北京工业大学硕士学位论文，2017.\n 

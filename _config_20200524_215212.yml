@@ -1,0 +1,8 @@
+title: Dmslab
+description: 
+google_analytics: 
+show_downloads: ture
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions

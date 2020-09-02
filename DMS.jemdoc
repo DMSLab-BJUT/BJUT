@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+== Zhen Yang-DataMining@Social Net
+
+== Micro-blog retrieval optimization
+~~~
+The rise of social media not only reduces the cost of communication, but also changes the habit of people's consumption of information. People are no longer satisfied with the passive consumer information, turn to become the main body of manufacturing and dissemination of information. The whole people from the media era gave birth to a more severe "information overload" problem. On the one hand, microblogging media short text language paradigm, such as length restrictions, the use of special characters, the expression of colloquialism and other characteristics, making the traditional long text retrieval method in microblogging retrieval performance degradation, or even completely unavailable. On the other hand, mainstream social media platforms, such as microblogging, Twetter and Facebook, are eager to build a fast, intelligent microblogging information filtering system that provides users with more efficient information push services. This requires us to apply to the microblogging short text search method for in-depth study.
+~~~
+
+=== Project Members
+- Zhen Yang
+- Chaoyang Li
+
+=== Publication
+- \[2017\] Yang Z, Li C, Fan K, Huang J. “Exploiting Multi-Sources Query Expansion in Microblogging Filtering.” Neural Network World, 2017, 27(1): 59-76.
+- 李超阳. 基于内部-外部知识协同扩展的微博检索优化研究, 北京工业大学硕士学位论文，2017.\n 
+
+== Temporal event Summarization
+~~~
+Living in the Big Data Age, Big Data often does not mean Big Knowledge. For example, when emergencies occur, the number of related news reports increases exponentially, and how to dynamically track the development of specific emergencies from massive news large data streams, to facilitate the reader to read the event summary that reflects the development of the specific emergencies, is becoming an urgent task to be solved.
+~~~
+
+=== Project Members
+- Zhen Yang
+- Yinzhe Yao
+
+=== Publication
+- 姚应哲. 基于文本语义正则约束的突发事件时间摘要技术研究, 北京工业大学硕士学位论文，2017.\n 
